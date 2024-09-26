@@ -25,7 +25,6 @@ public class DateTimeFunctions {
 		LocalDate currDate = LocalDate.now();
 		return currDate;
 		//YOUR CODE ENDS HERE
-
 	}
 
 	/*
@@ -37,7 +36,6 @@ public class DateTimeFunctions {
 		LocalDate xDaysLater = date.plusDays(x);
 		return xDaysLater;
 		//YOUR CODE ENDS HERE
-
 	}
 
 	/*
@@ -49,7 +47,6 @@ public class DateTimeFunctions {
 		LocalDate xWeeksLater = date.minusWeeks(x);
 		return xWeeksLater;
 		//YOUR CODE ENDS HERE
-
 	}
 
 	/*
